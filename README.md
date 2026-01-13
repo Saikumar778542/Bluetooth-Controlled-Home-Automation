@@ -27,6 +27,7 @@ Software Purpose Arduino IDE Programming Embedded C/C++ Coding Android Voice App
 HC-05 Bluetooth Module Communication type: UART Operating voltage: 3.3V Baud rate: 9600 Range: ~10 meters Pins: VCC → 5V GND → GND TX → RX (Arduino) RX → TX (Arduino via divider).
 
 8.SPEECH RECOGNITION METHOD
+
 Speech recognition is handled by the smartphone Mobile app converts speech to text Recognized text is transmitted via Bluetooth Example Commands:
 
 "LED ON" "LED OFF" "FAN ON" "FAN OFF"
@@ -56,9 +57,11 @@ Home automation Assistive devices Voice-controlled robots Industrial equipment c
 No internet required Low cost Simple implementation Fast response
 
 16.LIMITATIONS
+
 Limited range (~10 m) Mobile app dependency Noise affects recognition
 
 17.FUTURE ENHANCEMENTS
+
 Control multiple appliances Use ESP32 Bluetooth Add password security Voice feedback using speake Integrate sensors
 
 18.CONCLUSION
