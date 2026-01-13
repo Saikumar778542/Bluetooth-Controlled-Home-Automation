@@ -65,6 +65,7 @@ Limited range (~10 m) Mobile app dependency Noise affects recognition
 Control multiple appliances Use ESP32 Bluetooth Add password security Voice feedback using speake Integrate sensors
 
 18.CONCLUSION
+
 A Bluetooth-based speech recognition system provides an efficient and low-cost solution for voice-controlled device operation. The system successfully demonstrates offline speech processing, wireless communication, and embedded control.
 
 
